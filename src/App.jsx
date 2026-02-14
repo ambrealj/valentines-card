@@ -20,9 +20,10 @@ export default function App() {
       {/* Boyfriend */}
       <div className="bg-white p-[2vh] rotate-[8deg] z-30 -translate-y-[5vh] md:translate-y-[-8vh] translate-x-[10vh] md:translate-x-[30vh] transition ease-in-out hover:-rotate-[4deg]">
         <img src={Boyfriend} alt="Boyfriend" className="w-[243px] h-auto mb-[2vh]" />
-        <h1 className="text-2xl flex text-center w-full justify-center">jennifer!</h1>
+        <h1 className="text-2xl flex text-center w-full justify-center">us!</h1>
       </div>
     </div>
   );
 }
+
 
