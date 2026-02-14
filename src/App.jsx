@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Boyfriend from './assets/jen.jpg';
+import Boyfriend from './assets/roomies.jpg';
 import Heart from './assets/heart.svg';
 
 
@@ -25,5 +25,6 @@ export default function App() {
     </div>
   );
 }
+
 
 
